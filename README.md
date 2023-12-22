@@ -19,6 +19,6 @@ http://localhost:5173/
 
 Tech Stacks:
 
--> ReactJS
--> TailwindCSS
--> Vite
+-> ReactJS \n
+-> TailwindCSS \n
+-> Vite \n

@@ -4,8 +4,8 @@ Description:
 
 A responsive web application, connect with your MetaMask wallet and shows the details such as Address and Balance.
 
-![Image description](https://github.com/div-vik/web3/blob/main/src/assets/screenshot1.png)
-![Image description](https://github.com/div-vik/web3/blob/main/src/assets/screenshot2.png)
+![screenshot](./src/assets/screenshot1.png)
+![screenshot](./src/assets/screenshot2.png)
 
 How to run the application:
 
